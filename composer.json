@@ -5,6 +5,8 @@
     "require": {
         "magento/project-community-edition": "*"
     },
+    "license": "OSL-3.0",
+    "homepage": "https://github.com/Cedcoss14/Ced",
     "type": "magento2-module",
     "version": "0.1.0",
     "extra": {
