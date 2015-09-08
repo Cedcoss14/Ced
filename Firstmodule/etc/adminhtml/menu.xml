@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../Magento/Backend/etc/menu.xsd">
-    <menu>
-    	 <add id="Ced_Firstmodule::ced" title="Ced" module="Ced_Firstmodule" sortOrder="100" dependsOnModule="Ced_Firstmodule" resource="Ced_Firstmodule::ced"/>
-        <add id="Ced_Firstmodule::ced_mymenu" title="Ced Mymenu" module="Ced_Firstmodule" sortOrder="300"  parent="Ced_Firstmodule::ced" action="firstmodule/mymenu" resource="Ced_Firstmodule::ced_mymenu"/>
-    </menu>
-</config>
