@@ -1,6 +1,7 @@
 {
     "name": "ced/magento2-first-module",
     "description": "Hello world Magento 2 Composer Module!",
+    "minimum-stability": "beta",
     "require": {
         "magento/project-community-edition": "*"
     },
